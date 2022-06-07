@@ -1,0 +1,9 @@
+header {
+  background-color: rgb(50,50,50);
+  color: rgb(255,255,255);
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  font-size:larger;
+  font-weight: bolder;
+}
